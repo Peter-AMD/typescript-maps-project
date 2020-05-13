@@ -1,6 +1,6 @@
 # typescript-maps-project
 
-NPM install
+- NPM install
 
-#to run
-parcel index.html
+# to run
+- parcel index.html
